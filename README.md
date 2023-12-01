@@ -3,11 +3,11 @@
 Desktop Companion is a simple yet delightful application designed to bring lively characters to your screen. Enjoy the presence of charming animations that add a touch of personality to your desktop environment. While these characters don't interact, they provide a cheerful and visually engaging experience as you work or navigate your computer
 
 ## Menu
-### 1.Credits
-### 2.Install
-#### 2.1. Windows
-#### 2.2. Linux
-#### 2.3. MacOS
+### [1.Credits](#1credits-1)
+### [2.Install](#2install-1)
+#### [2.1. Windows](#21-windows-1)
+#### [2.2. Linux](#22-windows)
+#### [2.3. MacOS](#23-windows)
 
 ## 1.Credits
 
