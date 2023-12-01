@@ -1,4 +1,4 @@
-zuluname: Jpackage Windows
+name: Jpackage Windows
 
 on:
   workflow_dispatch:
