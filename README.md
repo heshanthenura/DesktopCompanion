@@ -2,9 +2,9 @@
 
 Desktop Companion is a simple yet delightful application designed to bring lively characters to your screen. Enjoy the presence of charming animations that add a touch of personality to your desktop environment. While these characters don't interact, they provide a cheerful and visually engaging experience as you work or navigate your computer.
 
-<h1 align="center">
+<p align="center">
 <video src="https://private-user-images.githubusercontent.com/75155192/287311597-aa12e881-c5f8-48dc-be19-47d8a16d86ac.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDE0NDU1MjUsIm5iZiI6MTcwMTQ0NTIyNSwicGF0aCI6Ii83NTE1NTE5Mi8yODczMTE1OTctYWExMmU4ODEtYzVmOC00OGRjLWJlMTktNDdkOGExNmQ4NmFjLm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjAxVDE1NDAyNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc2MTVhYThiMzFhZmU3MmQ5N2ZjMTA3NmE0ZGIxMzYwOTg1ZDcxYTE3ZDkxZjAzMzI5Njc2NjFhMTljYTk2NmUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.hTXcq9rqVW2Jz5x8WzN8Eaz4OITR-AE1LHqnaPjrPk0" autoplay></video>
-</h1>
+</p>
 
 ## Menu
 - ### [Overview]()
