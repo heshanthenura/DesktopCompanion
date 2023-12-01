@@ -4,6 +4,10 @@ Desktop Companion is a simple yet delightful application designed to bring livel
 
 ## Menu
 ### 1.Credits
+### 2.Install
+#### 2.1. Windows
+#### 2.2. Linux
+#### 2.3. MacOS
 
 ## 1.Credits
 
@@ -16,3 +20,12 @@ https://craftpix.net/freebies/free-shinobi-sprites-pixel-art/
 </h1>
 
 https://www.flaticon.com/free-icon/slow-motion_13026363?term=anime&page=1&position=56&origin=tag&related_id=13026363
+
+## 2.Install
+### 2.1. Windows
+
+Download installer [here](https://github.com/heshanthenura/DesktopCompanion/releases/tag/v1.0). Just double click and install
+
+### 2.2. Windows
+
+### 2.3. Windows
