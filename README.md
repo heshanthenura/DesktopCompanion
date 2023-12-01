@@ -7,12 +7,12 @@ Desktop Companion is a simple yet delightful application designed to bring livel
 </p>
 
 ## Menu
-- ### [Overview]()
-- ### [Credits](#1-credits)
-- ### [Installation](#2-installation)
-    #### 1. [Windows](#21-windows)
-    #### 2. [Linux](#22-linux)
-    #### 3. [MacOS](#23-macos)
+- ### [Overview](#overview-1)
+- ### [Credits](#credits-1)
+- ### [Installation](#installation-1)
+    #### 1. [Windows](#1-windows-1)
+    #### 2. [Linux](#2-linux-1)
+    #### 3. [MacOS](#3-macos-1)
 - ### [Contact](#if-youre-interested-in-custom-application-development-or-would-like-to-discuss-a-project-please-dont-hesitate-to-contact-me)
 * ## Overview
 At present, the characters gracefully move from left to right along the bottom of your screen, randomly positioning themselves. However, I'm enthusiastic about expanding the variety of animations and introducing new characters in future updates to further enrich the desktop experience
