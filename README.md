@@ -3,13 +3,17 @@
 Desktop Companion is a simple yet delightful application designed to bring lively characters to your screen. Enjoy the presence of charming animations that add a touch of personality to your desktop environment. While these characters don't interact, they provide a cheerful and visually engaging experience as you work or navigate your computer.
 
 ## Menu
-1. [Credits](#1-credits)
-2. [Installation](#2-installation)
-    1. [Windows](#21-windows)
-    2. [Linux](#22-linux)
-    3. [MacOS](#23-macos)
-3. [Contact](#2-installation)
-## 1. Credits
+- ### [Overview]()
+- ### [Credits](#1-credits)
+- ### [Installation](#2-installation)
+    #### 1. [Windows](#21-windows)
+    #### 2. [Linux](#22-linux)
+    #### 3. [MacOS](#23-macos)
+- ### [Contact](#if-youre-interested-in-custom-application-development-or-would-like-to-discuss-a-project-please-dont-hesitate-to-contact-me)
+
+At present, the characters gracefully move from left to right along the bottom of your screen, randomly positioning themselves. However, I'm enthusiastic about expanding the variety of animations and introducing new characters in future updates to further enrich the desktop experience
+
+* ## Credits
 
 ### Animated Character Credits
 
@@ -23,14 +27,15 @@ Desktop Companion is a simple yet delightful application designed to bring livel
 
 ### [Icon](https://www.flaticon.com/free-icon/slow-motion_13026363?term=anime&page=1&position=56&origin=tag&related_id=13026363)
 
-## 2. Installation
-### 2.1. Windows
+* ## Installation
+* ### 1. Windows
+
+#### Users can enhance their experience on Windows by hiding the taskbar in desktop mode, allowing it to appear only when the mouse is moved to its location, ensuring an unobstructed view and seamless interaction with the animated characters
+
 Download the installer [here](https://github.com/heshanthenura/DesktopCompanion/releases/tag/v1.0) and double click to install.
-
-### 2.2. Linux
+* ### 2. Linux
 Coming Soon
-
-### 2.3. MacOS
+* ### 3. MacOS
 Coming Soon
 
 
