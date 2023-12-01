@@ -26,6 +26,7 @@ https://www.flaticon.com/free-icon/slow-motion_13026363?term=anime&page=1&positi
 
 Download installer [here](https://github.com/heshanthenura/DesktopCompanion/releases/tag/v1.0). Just double click and install
 
-### 2.2. Windows
-
+### 2.2. Linux
+Releasing Soon
 ### 2.3. Windows
+Releasing Soon
